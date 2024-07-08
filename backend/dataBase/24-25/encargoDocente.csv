@@ -1,0 +1,3 @@
+ID_PDI;ID_Asignatura;Nueva_Asignatura;Coordinación;Fecha Inicio;Fecha Fin;Creditos T;Grupos T;Creditos PA;Grupos PA;Creditos PE/PX;Grupos PE/PX;Creditos TU;Grupos TU
+11111111;66666666;True;False;09-01-25;09-05-25;3;1,2;1.5;PA101,PA102,PA201,PA202;0;;0;
+11111111;66666667;True;False;09-01-25;09-05-25;1.5;1;1.5;PA101;0;;0;

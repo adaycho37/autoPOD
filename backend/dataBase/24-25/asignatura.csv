@@ -1,0 +1,3 @@
+ID_Asignatura;Denominación;Master;Especial;Ofertada;Tipología;Plan;Curso;Cuatrimestre;Docencia_Area;Creditos T1;Grupos T1;Creditos T2;Grupos T2;Creditos T3;Grupos T3;Creditos T3a;Grupos T3a;Creditos T4;Grupos T4
+66666666;Asignatura 1;False;False;True;Obligatoria;;1;2;100;6;2;3;4;1.5;6;0;0;1.5;6
+66666667;Asignatura 2;False;False;True;Optativa;;3;2;100;3;1,2;1.5;1;1.5;1;0;0;0;0
